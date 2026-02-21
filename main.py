@@ -1,7 +1,3 @@
-"""
-Student Performance Analytics - Fixed Version (No statsmodels needed)
-Save this as t.py and run: streamlit run t.py
-"""
 
 import streamlit as st
 import pandas as pd
